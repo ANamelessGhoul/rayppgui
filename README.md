@@ -1,5 +1,6 @@
 ### [rayppgui](https://github.com/ANamelessGhoul/rayppgui) is a fork of [raygui](https://github.com/raysan5/raygui).
 rayppgui is meant to add easier bindings for C++ and other small features to make it easier to use.
+The implementation and declaration will be separated thus the need to use defines to import implementation will not be required.
 
 
 <img align="left" src="logo/raygui_256x256.png" width=256>
