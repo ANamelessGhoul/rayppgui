@@ -1,3 +1,7 @@
+### [rayppgui](https://github.com/ANamelessGhoul/rayppgui) is a fork of [raygui](https://github.com/raysan5/raygui).
+rayppgui is meant to add easier bindings for C++ and other small features to make it easier to use.
+
+
 <img align="left" src="logo/raygui_256x256.png" width=256>
 
 **raygui** is a simple and easy-to-use immediate-mode-gui library.
